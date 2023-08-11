@@ -14,3 +14,4 @@ fprintf(fid, '%x\n', a);
 disp('Text file write done');
 disp(' ');
 fclose(fid);
+
